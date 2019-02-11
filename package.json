@@ -1,0 +1,27 @@
+{
+  "name": "bits-price",
+  "version": "1.0.0",
+  "description": "A nextjs application that fetches bitcoin prices from an API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "NodeJS",
+    "express",
+    "React",
+    "NextJS",
+    "JavaScript"
+  ],
+  "author": "Uzoanya Dominic",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^7.0.3",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  }
+}
